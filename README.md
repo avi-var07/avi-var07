@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aviral Varshney! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B93E&size=22&center=true&vCenter=true&width=600&lines=Developer+|+Problem+Solver+|+Web+Enthusiast;Coding+in+Java+|+Exploring+Web+Dev+%26+DSA;Sleep+Enthusiast+(10%2B+hrs%2Fday+%F0%9F%98%86);Student+at+Lovely+Professional+University" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B93E&size=22&center=true&vCenter=true&width=600&lines=Developer+|+Problem+Solver+|+Web+Enthusiast;Coding+in+Java+|+Exploring+Web+Dev+%26+DSA;Sleep+Enthusiast+(10%2B+hrs%2Fday+%F0%9F%98%86)" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ---
 
 ## ⚡ Fun Fact:
-I sleep **10+ hours a day** and still manage to code—sleep is my secret productivity hack! 😴💡
+I sleep **10 hours a day** and still manage to code—sleep is my secret productivity hack! 😴💡
 
 ---
 
@@ -54,14 +54,11 @@ I sleep **10+ hours a day** and still manage to code—sleep is my secret produc
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avi-var07&color=red" alt="Profile Views" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=avi-var07&theme=radical" alt="GitHub Trophies" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=avi-var07&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-var07&layout=compact&theme=radical" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avi-var07&theme=radical" alt="GitHub Streak" />
-  <br>
 </p>
 
 ---
