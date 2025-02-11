@@ -62,9 +62,6 @@ I sleep **10+ hours a day** and still manage to code—sleep is my secret produc
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avi-var07&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=avi-var07&theme=radical" alt="GitHub Contribution Graph" />
-  <br>
-  <img src="https://github.com/avi-var07/avi-var07/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
