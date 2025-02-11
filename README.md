@@ -10,11 +10,12 @@
 - 🔭 Currently working on **full-stack web development** and **DSA in Java**
 - 🎯 Always up for **solving challenging problems** and **building cool projects**
 - 🎮 Love experimenting with **new tech & frameworks**
+- ✍️ Passionate about writing **poems, quotes and articles**
 
 ---
 
 ## ⚡ Fun Fact:
-I sleep **10 hours a day** and still manage to code—sleep is my secret productivity hack! 😴💡
+I sleep **10+ hours a day** and still manage to code—sleep is my secret productivity hack! 😴💡
 
 ---
 
