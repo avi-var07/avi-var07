@@ -10,7 +10,7 @@
 - 🔭 Currently working on **full-stack web development** and **DSA in Java**
 - 🎯 Always up for **solving challenging problems** and **building cool projects**
 - 🎮 Love experimenting with **new tech & frameworks**
-- ✍️ Passionate about writing **poems, quotes and articles**
+- ✍️ Passionate about writing **poems, quotes, and articles**
 
 ---
 
@@ -59,7 +59,7 @@ I sleep **10+ hours a day** and still manage to code—sleep is my secret produc
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-var07&layout=compact&theme=radical" alt="Top Languages" />
   <br>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviral-varshney&theme=tokyonight&hide_border=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avi-var07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,4 +67,3 @@ I sleep **10+ hours a day** and still manage to code—sleep is my secret produc
 <p align="center">
   ⭐ <b>"Code. Sleep. Repeat."</b> 😴💻🔥
 </p>
-
