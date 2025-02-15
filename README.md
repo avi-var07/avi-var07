@@ -15,7 +15,7 @@
 ---
 
 ## ⚡ Fun Fact:
-I sleep **10+ hours a day** and still manage to code—sleep is my secret productivity hack! 😴💡
+I sleep **10+ hours a day** and still manage to code; sleep is my secret productivity hack! 😴💡
 
 ---
 
