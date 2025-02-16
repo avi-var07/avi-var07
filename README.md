@@ -55,11 +55,11 @@ I sleep **10+ hours a day** and still manage to code; sleep is my secret product
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avi-var07&color=red" alt="Profile Views" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=avi-var07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avi_var07&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-var07&layout=compact&theme=radical" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avi-var07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avi_var07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
